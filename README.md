@@ -1,40 +1,40 @@
-# Tattoo Shop - Website com Next.js
+# Tattoo Shop - Website with Next.js
 
-Inicie sua prática com Next.js criando uma página comercial para um tatuador hipotético chamado Sandro Luz. Crie, do começo ao fim, um projeto Next.js.
+Start your practice with Next.js by creating a commercial website for a hypothetical tattoo artist named Sandro Luz. Build the entire Next.js project from scratch.
 
-## 🤓 Antes de começar
+## 🤓 Before you start
 
-Neste mini projeto não há template/boilerplate inicial. Você deverá começar o projeto do zero.
+In this mini project, there is no initial template/boilerplate. You will need to start the project from scratch.
 
-## 🔨 Requisitos
+## 🔨 Requirements
 
-- Inicialize o projeto do zero usando o `create-next-app`
-- Crie 4 páginas para a "Sandro Luz Tattoo Shop":
+- Initialize the project from scratch using `create-next-app`
+- Create 4 pages for "Sandro Luz Tattoo Shop":
   - Home
-  - Serviços
-  - Sobre
-  - Contato
-- Utilize todos os recursos nativos do Next.js, tais como: `next/link`, `next/image`, `next/font`;
-- O botão de contato (tanto na navbar quanto na página de contato) deverá ser um link para a funcionalidade [conversa em um clique](https://faq.whatsapp.com/5913398998672934) do WhatsApp. Este link deverá abrir em uma nova página;
-- Utilize o App Router (em detrimento do Pages Router);
-- Utilize as imagens diretamente do Figma (exportando-as);
-- Como sugestão, faça o CSS usando TailwindCSS.
+  - Services
+  - About
+  - Contact
+- Use all native Next.js features, such as: `next/link`, `next/image`, `next/font`;
+- The contact button (both in the navbar and on the contact page) should be a link to WhatsApp's click-to-chat functionality (https://faq.whatsapp.com/5913398998672934). This link should open in a new tab;
+- Use the App Router (instead of the Pages Router);
+- Use images directly from Figma (exporting them);
+- As a suggestion, use TailwindCSS for styling.
 
-## 🔨 Desafio extra para quem quer ir além
+## 🔨 Extra Challenge for those who want to go further
 
-- Adicione alguma animação. Pode ser na própria imagem e nos textos da home ou na navbar, ao trocar de link, por exemplo.
+- Add some animations. This could be for the image and text on the home page or the navbar when switching links, for example.
 
-## 🎨 Design Sugerido
+## 🎨 Suggested Design
 
-Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar a aplicação conforme a sua criatividade.
+We have a suggested design in Figma. However, feel free to create the application based on your own creativity.
 
 ### Figma
 
 🔗 [Link do design](https://www.figma.com/community/file/1362183399183292915/mini-projeto-tattoo-shop-website-com-next-js)
 
-## 👉🏽 Sobre esse mini-projeto
+## 👉🏽 About this mini-project
 
-### O que você irá praticar:
+### What you will practice:
 
 #### Next.js
 
@@ -50,6 +50,6 @@ Temos uma sugestão de design no Figma. Entretanto, fique à vontade para montar
 
 - Design "pixel-perfect" com TailwindCSS
 
-### Pré-requisitos
+### Prerequisites
 
-Nenhum pré-requisito com Next.js. Conhecimento de React básico é necessário.
+No prerequisites with Next.js. Basic React knowledge is required.
