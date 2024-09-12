@@ -1,7 +1,7 @@
-import { FaWhatsapp } from "react-icons/fa";
-import Link from "next/link";
-import Image from "next/image";
-import tattooImage from "../_assets/tattoo.png";
+import { FaWhatsapp } from 'react-icons/fa';
+import Link from 'next/link';
+import Image from 'next/image';
+import tattooImage from '../_assets/tattoo.png';
 
 export default function Contato() {
   return (
@@ -14,8 +14,8 @@ export default function Contato() {
           Clique no botão abaixo e envie uma mensagem. <br />
           Vamos conversar!
         </p>
-        <Link 
-          target='_blank' 
+        <Link
+          target="_blank"
           href="https://wa.me//551199999999?text=Ol%C3%A1%20Sandro%2C%20acessei%20o%20seu%20site%20e%20
             quer%20fazer%20uma%20Tattoo%21%21"
         >
@@ -28,11 +28,12 @@ export default function Contato() {
           </button>
         </Link>
       </section>
-      <Image 
-        className="hidden lg:block" 
-        width="600" 
-        src={tattooImage} 
-        alt="Sandro Luz fazendo uma tatuagem" />
+      <Image
+        className="hidden lg:block"
+        width="600"
+        src={tattooImage}
+        alt="Sandro Luz fazendo uma tatuagem"
+      />
     </main>
   );
 }

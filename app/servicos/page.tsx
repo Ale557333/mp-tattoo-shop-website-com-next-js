@@ -24,7 +24,9 @@ export default function Servicos() {
 
   return (
     <main className="px-4 md:px-8 lg:px-16 py-10 animate-fadeIn">
-      <h1 className="text-3xl font-black text-yellow-300 mt 12 py-10">Serviços</h1>
+      <h1 className="text-3xl font-black text-yellow-300 mt 12 py-10">
+        Serviços
+      </h1>
       <section className="flex md:flex-row flex-col gap-12 mt-16">
         {services.map((service) => (
           <article key={service.name}>
