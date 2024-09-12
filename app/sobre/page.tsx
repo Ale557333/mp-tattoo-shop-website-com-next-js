@@ -4,7 +4,7 @@ import { islandMoments } from '../_lib/fonts';
 
 export default function Contato() {
   return (
-    <main className="relative flex-1 px-4 md:px-8 lg:px-16 py-10">
+    <main className="relative flex-1 px-4 md:px-8 lg:px-16 py-10 animate-fadeIn">
       <h1 className="text-3xl font-black mt-12 md:text-left">
         Prazer, sou <span className="text-yellow-400">Sandro Luz</span>
       </h1>
