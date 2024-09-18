@@ -34,7 +34,7 @@ We have a suggested design in Figma. However, feel free to create the applicatio
 
 ### Deploy
 
-🔗 [Link]([[https://www.figma.com/community/file/1362183399183292915/mini-projeto-tattoo-shop-website-com-next-js](https://mp-tattoo-shop-website-com-next-js-1f68.vercel.app/)](https://mp-tattoo-shop-website-com-next-js-1f68.vercel.app/))
+🔗 [Link](https://www.figma.com/community/file/1362183399183292915/mini-projeto-tattoo-shop-website-com-next-js](https://mp-tattoo-shop-website-com-next-js-1f68.vercel.app/)](https://mp-tattoo-shop-website-com-next-js-1f68.vercel.app/))
 
 
 ## 👉🏽 About this mini-project
