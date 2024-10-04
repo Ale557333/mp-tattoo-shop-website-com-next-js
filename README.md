@@ -2,6 +2,9 @@
 
 Start your practice with Next.js by creating a commercial website for a hypothetical tattoo artist named Sandro Luz. Build the entire Next.js project from scratch.
 
+## 📸 Project Preview
+![Screenshot 2024-10-04 at 1 52 39 PM](https://github.com/user-attachments/assets/71a37578-37cf-43db-87f4-49e7c2c5b898)
+
 ## 🤓 Before you start
 
 In this mini project, there is no initial template/boilerplate. You will need to start the project from scratch.
